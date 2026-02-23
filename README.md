@@ -43,19 +43,19 @@ Neste projeto, apliquei conceitos avançados que são fundamentais para sistemas
 ## 🚀 Como Executar
 
 1. **Clone o repositório:**
-    ```git clone 
+    `git clone` 
 2. **Instale as dependências:**
-    ```npm install
+    `npm install`
 3. **Configure suas credenciais AWS e faça o deploy:**
-    ```cdk bootstrap cdk deploy
+    `cdk bootstrap cdk deploy`
 4. **Teste o endpoint:**
-    ```Use o link gerado pelo DeliveryApiEndpoint para enviar um POST via cURL ou Postman.
+    Use o link gerado pelo DeliveryApiEndpoint para enviar um POST via cURL ou Postman.
 
 ---
 
 ## 📈 Próximos Passos (Roadmap)
-[ ] Implementar autenticação via Amazon Cognito.
-[ ] Adicionar testes unitários com Jest.
+[ ] Implementar autenticação via Amazon Cognito. <br>
+[ ] Adicionar testes unitários com Jest.<br>
 [ ] Criar um Dashboard simples em React/Next.js para acompanhar os pedidos em tempo real.
 
 ## Contato
