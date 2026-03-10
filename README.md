@@ -60,3 +60,5 @@ Neste projeto, apliquei conceitos avançados que são fundamentais para sistemas
 
 ## Contato
 [Rhulyanderson Sander](https://www.linkedin.com/in/rhulys/)
+
+<img width="712" height="32" alt="Captura de tela de 2026-02-23 22-17-23" src="https://github.com/user-attachments/assets/ff74de3c-fa98-4e8d-ae63-12958e4cd9ed" />
